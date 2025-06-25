@@ -1,5 +1,9 @@
 git add <filename> --> staging
 
-내용 추가1
+git commit -m 'blah' --> commit
 
-내용 추가12
+1. 수정
+2. add
+3. commit
+4. git remote add => 한번만 하면 됨
+5. git push origin main
